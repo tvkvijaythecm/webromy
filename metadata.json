@@ -1,0 +1,6 @@
+{
+  "name": "Webro",
+  "description": "A modern dynamic digital agency platform featuring an onboarding slider, full project portfolios, and an integrated Admin CMS Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
