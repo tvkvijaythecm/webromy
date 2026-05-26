@@ -1,0 +1,222 @@
+{
+  "slides": [
+    {
+      "id": "1",
+      "title": "Empowering Brands with AI Marketing",
+      "description": "Revolutionize your customer acquisition using data-driven, client-focused AI ad algorithms and automated branding.",
+      "image": "indigo",
+      "order": 1
+    },
+    {
+      "id": "2",
+      "title": "Bespoke Web & App Development",
+      "description": "We engineer high-performance, responsive applications built to convert users, scale effortlessly, and operate globally.",
+      "image": "sky",
+      "order": 2
+    },
+    {
+      "id": "3",
+      "title": "Avant-Garde Graphic Design",
+      "description": "Establish a striking visual presence. Our visual assets, brand vectors, and interfaces define modern aesthetic standards.",
+      "image": "orange",
+      "order": 3
+    }
+  ],
+  "hero": {
+    "title": "Next-Gen Digital Solutions for Exponential Growth",
+    "subtitle": "Webro combines modern AI advertisement, bespoke application engineering, and immaculate visual art to scale your digital presence.",
+    "imageUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=1200&q=80",
+    "ctaText": "Explore Project Portfolio",
+    "ctaLink": "projects"
+  },
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Sarah Jenkins",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format|fit=crop|w=120&q=80",
+      "rating": 5,
+      "message": "Webro delivered our custom sales dashboard ahead of schedule. Their AI ads strategy increased our conversion rate by 142%!",
+      "role": "Marketing Director, CloudScale"
+    },
+    {
+      "id": "t2",
+      "name": "Marcus Aurelius",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format|fit=crop|w=120&q=80",
+      "rating": 5,
+      "message": "Outstanding engineering. The native mobile application runs flawlessly, and our clients rave about the user-focused graphic branding.",
+      "role": "CEO, Heritage Group"
+    },
+    {
+      "id": "t3",
+      "name": "Dina Al-Mansoori",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format|fit=crop|w=120&q=80",
+      "rating": 5,
+      "message": "The absolute masters of modern modern design. Creative, professional, and incredibly structured working workflow. Highly recommended!",
+      "role": "Co-Founder, InnovateHQ"
+    }
+  ],
+  "services": [
+    {
+      "id": "ai-ads",
+      "title": "AI Powered Advertisement",
+      "description": "Harness machine learning models to analyze consumer behavior, generate synthetic copy, and run micro-targeted agency campaigns that automate client acquisition.",
+      "features": [
+        "Dynamic content generation",
+        "Algorithmic bidding engines",
+        "Predictive ROI modeling",
+        "Competitor ad surveillance"
+      ],
+      "icon": "Bot",
+      "color": "sky"
+    },
+    {
+      "id": "web-mobile",
+      "title": "Website & Mobile Apps Development",
+      "description": "High-fidelity, responsive full-stack applications written in modern frameworks. We guarantee sub-second page performance and rock-solid architectural choices.",
+      "features": [
+        "React & Native app engines",
+        "Serverless database architecture",
+        "E-Commerce checkout systems",
+        "SEO architecture & caching"
+      ],
+      "icon": "Code2",
+      "color": "orange"
+    },
+    {
+      "id": "graphic-design",
+      "title": "Creative Graphic Designs",
+      "description": "Impeccably tailored visual identities, typography systems, vector mockups, and layout grids that represent the absolute pinnacle of premium branding.",
+      "features": [
+        "Corporate branding packages",
+        "Complete UI/UX design systems",
+        "High-fidelity marketing collateral",
+        "Motion graphics & 3D renders"
+      ],
+      "icon": "Palette",
+      "color": "white"
+    }
+  ],
+  "about": {
+    "historyTitle": "Transforming Digital Interfaces since 2018",
+    "companyHistory": "Webro is a premier digital strategy agency focused on elevating modern business operations. We started as an expert UI studio in Kuala Lumpur and evolved into a boutique, global powerhouse delivering end-to-end full stack development, smart AI marketing funnels, and stellar brand strategies.",
+    "vision": "To establish the gold standard of responsive visual elegance and functional machine performance on the web, bridging human creativity and automated intelligence.",
+    "mission": "To arm ambitious brands with advanced, responsive interfaces, lightning-fast application engines, and hyper-targeted advertising algorithms that force rapid growth."
+  },
+  "workflow": [
+    {
+      "id": "step1",
+      "stepNumber": 1,
+      "title": "Discovery & Concepting",
+      "description": "We establish deep parameters, mapping workflows, targets, competitor landscapes, and core technology specifications."
+    },
+    {
+      "id": "step2",
+      "stepNumber": 2,
+      "title": "Visual Prototyping",
+      "description": "Creating comprehensive wireframes, visual design boards, brand style grids, and high-fidelity wire interactive layouts."
+    },
+    {
+      "id": "step3",
+      "stepNumber": 3,
+      "title": "Agile Engineering",
+      "description": "Writing precise, cleanly modular frontend code paired with secure backend, serverless microservices and caching APIs."
+    },
+    {
+      "id": "step4",
+      "stepNumber": 4,
+      "title": "Automated Testing & Release",
+      "description": "Executing edge performance simulations, responsiveness checks, security validation, and instant continuous delivery."
+    }
+  ],
+  "skills": [
+    {
+      "id": "s1",
+      "name": "AI Advertising Algorithms",
+      "percentage": 92
+    },
+    {
+      "id": "s2",
+      "name": "Full-Stack Development (React, Node, Go)",
+      "percentage": 96
+    },
+    {
+      "id": "s3",
+      "name": "Bespoke UI/UX & Graphic Layouts",
+      "percentage": 98
+    },
+    {
+      "id": "s4",
+      "name": "Client Growth Strategy & SEO Tuning",
+      "percentage": 88
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-ai",
+      "name": "AI Advertising",
+      "slug": "ai-ads"
+    },
+    {
+      "id": "cat-app",
+      "name": "Apps & Development",
+      "slug": "development"
+    },
+    {
+      "id": "cat-brand",
+      "name": "Creative Branding",
+      "slug": "creative-graphic"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-1",
+      "title": "AI-Optimized Marketing Engine for Apex Retail",
+      "categoryId": "cat-ai",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80",
+      "websiteUrl": "https://apex-retail-demo.example.com",
+      "description": "<h2>Elevating Apex Marketing</h2><p>Our team implemented advanced custom machine-learning bidding models for Apex Retail. Over a 90-day testing cycle, the campaign returned amazing results.</p><ul><li>🎯 <strong>142% Increase</strong> in organic client clicks.</li><li>💰 <strong>32% Drop</strong> in Cost Per Acquisition (CPA).</li><li>⚡ Automated copy generating hundreds of variations in real-time.</li></ul><p>The platform runs on Express and utilizes Google Search models to adjust budgets every 3 minutes.</p>",
+      "status": "publish",
+      "createdAt": "2026-05-18T12:00:00Z"
+    },
+    {
+      "id": "post-2",
+      "title": "LuxeCare - High-Performance E-Commerce App",
+      "categoryId": "cat-app",
+      "videoUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=600&q=80",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=600&q=80",
+      "websiteUrl": "https://luxecare.example.com",
+      "description": "<h2>Beautiful Shopping Experiences</h2><p>LuxeCare required an elite native mobile experience written in modern React Native. It interfaces directly with our high-speed Node backend APIs for lightning-speed query completion.</p><blockquote>\"Working with Webro transformed our mobile pipeline. The user interaction gestures feel organic and liquid.\" - Chief Admin officer</blockquote><p>Includes micro-interaction animations, secure swipe-to-pay, and advanced real-time push engines.</p>",
+      "status": "publish",
+      "createdAt": "2026-05-22T08:30:00Z"
+    },
+    {
+      "id": "post-3",
+      "title": "Ascent Corp - Brand Paradigm & Visual System",
+      "categoryId": "cat-brand",
+      "videoUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+      "websiteUrl": "https://ascent-branding.example.com",
+      "description": "<h2>Visual Architecture</h2><p>We designed a breathtaking architectural identity framework for Ascent Corp. By aligning their visual palette with clinical sky blue hues, warm white spaces, and striking design grids, we transformed their corporate look.</p><p>Check out our brand guidelines covering logo grids, typography specifications and stationary patterns.</p>",
+      "status": "publish",
+      "createdAt": "2026-05-24T15:45:00Z"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "msg-1",
+      "name": "Jane Developer",
+      "email": "jane@example.com",
+      "whatsapp": "+60123456789",
+      "message": "Hi Webro, we love your agency showcase. We are looking for a complete app build next month. Let's schedule a call!",
+      "createdAt": "2026-05-25T14:20:00Z"
+    }
+  ],
+  "activities": [
+    "System booted with default configuration",
+    "Pre-populated initial showcase projects in Webro agency engine"
+  ]
+}
