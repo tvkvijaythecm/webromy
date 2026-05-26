@@ -352,7 +352,7 @@ async function setupServer() {
   }
 
   app.listen(PORT, "0.0.0.0", () => {
-    console.log(`Webro Digital Full-Stack platform active on http://0.0.0.0:${PORT}`);
+    console.log(`Webro Digital Full-Stack platform active on https://webromy-mu.vercel.app`);
   });
 }
 
